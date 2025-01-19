@@ -22,7 +22,7 @@ Steps
 1. Clone the repository:
    ```bash
    [git clone <repository-link>](https://github.com/AmarChaudhar/assignment/blob/main/README.md)
-   cd <repository-folder>
+   cd  [repository-folder](https://github.com/AmarChaudhar/assignment/tree/main/lib)
 Screenshots and Videos
 Welcome Screen
 ![Screenshot_1737308153](https://github.com/user-attachments/assets/841f7992-651b-43c7-ab5b-ce00e9f271df)
