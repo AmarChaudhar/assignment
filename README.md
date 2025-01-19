@@ -1,16 +1,48 @@
-# assignment
+Quiz App
 
-A new Flutter project.
+Project Overview
+This is a Flutter-based Quiz App that allows users to attempt a set of questions fetched dynamically from an API. Users can answer multiple-choice questions, navigate through the quiz, and view their score summary at the end.
 
-## Getting Started
+Features:
+- Dynamic question fetching via API.
+- User-friendly interface with a progress indicator.
+- Displays quiz summary with the total score after submission.
+- Null-safe and error-handling mechanisms.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+Setup Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Prerequisites
+- Flutter installed on your system. ([Installation Guide](https://flutter.dev/docs/get-started/install))
+- A compatible editor like Visual Studio Code or Android Studio.
+- An emulator or a physical device for testing.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Steps
+1. Clone the repository:
+   ```bash
+   git clone <repository-link>
+   cd <repository-folder>
+Screenshots and Videos
+Welcome Screen
+![Screenshot_1737308153](https://github.com/user-attachments/assets/841f7992-651b-43c7-ab5b-ce00e9f271df)
+
+Quiz Screen
+![Screenshot_1737308702](https://github.com/user-attachments/assets/b8d18c0c-70eb-4e19-a710-203f1a2f6b02)
+![Screenshot_1737308706](https://github.com/user-attachments/assets/b0d20d0e-8663-4e21-b8e7-6017122ebbc6)
+
+Summary Screen
+![Screenshot_1737308823](https://github.com/user-attachments/assets/4f6173af-c3a9-4aa9-812e-6e47046a0378)
+
+
+Video Walkthrough 
+https://github.com/user-attachments/assets/81098759-973b-49a9-88d4-1cd27ee9e6ea
+
+
+
+
+
+
+
+
+
