@@ -39,6 +39,12 @@ Video Walkthrough
 https://github.com/user-attachments/assets/81098759-973b-49a9-88d4-1cd27ee9e6ea
 
 
+Technical Details
+Framework: Flutter
+State Management: Stateful Widgets
+API Integration: QuizApiService handles fetching questions.
+UI Components: Material Design widgets (AppBar, ListView, Card, RadioListTile, etc.)
+
 
 
 
