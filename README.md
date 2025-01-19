@@ -21,7 +21,7 @@ Prerequisites
 Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   [git clone <repository-link>](https://github.com/AmarChaudhar/assignment/blob/main/README.md)
    cd <repository-folder>
 Screenshots and Videos
 Welcome Screen
